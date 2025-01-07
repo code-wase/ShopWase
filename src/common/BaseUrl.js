@@ -1,0 +1,1 @@
+export let BaseUrl='https://studentcurd-api.onrender.com/student'
