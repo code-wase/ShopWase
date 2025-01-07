@@ -33,7 +33,7 @@ function App() {
     <div className='focus:scroll-auto'>
     <Navbar />
     <Routes>
-      <Route path="/HomePage" element={<HomePage />} />
+      <Route path="/" element={<HomePage />} />
       <Route path="/OurProducts" element={<OurProducts />} />
       <Route path="/Mens" element={<MensPage />} />
       <Route path="/Womens" element={<WomenPage />} />
