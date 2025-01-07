@@ -17,7 +17,7 @@ const Footer = () => {
 
       <div>
         <h2 className="text-2xl p-1 cursor-pointer hover:text-blue-950 hover:translate-x-1 duration-300">Use Full Links</h2>
-        <Link to='/HomePage' className="flex flex-col text-[18px] p-1 text-black/80 font-bold hover:text-orange-400 hover:translate-x-1 duration-300">Home</Link>
+        <Link to='/' className="flex flex-col text-[18px] p-1 text-black/80 font-bold hover:text-orange-400 hover:translate-x-1 duration-300">Home</Link>
         <Link to='OurProducts' className="flex flex-col text-[18px] p-1 text-black/80 font-bold hover:text-orange-400 hover:translate-x-1 duration-300">Products</Link>
         <Link className="flex flex-col text-[18px] p-1 text-black/80 font-bold hover:text-orange-400 hover:translate-x-1 duration-300">About</Link>
       </div>
